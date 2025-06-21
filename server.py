@@ -1,4 +1,3 @@
-
 import socket
 import qrcode
 import os
